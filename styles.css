@@ -1,0 +1,76 @@
+body {
+  font-family: 'SUSE Mono', monospace;
+  margin: 0;
+  background: linear-gradient(to bottom right, #b8e6b5, #e2f7e2);
+  color: #1f3d1f;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #89d789;
+  padding: 15px 30px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+  font-size: 1.8em;
+  font-weight: 300;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #1a4d1a;
+  transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #387a38;
+}
+
+.page {
+  padding: 60px 20px;
+  display: none;
+  opacity: 0;
+  transform: translateX(100%);
+  transition: all 0.6s ease;
+}
+
+.page.active {
+  display: block;
+  opacity: 1;
+  transform: translateX(0);
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 15px;
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+.button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.footer {
+  background-color: #89d789;
+  color: #1a4d1a;
+  text-align: center;
+  padding: 40px 20px;
+  margin-top: 60px;
+}
