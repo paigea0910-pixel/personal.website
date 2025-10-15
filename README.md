@@ -14,7 +14,7 @@ Here's a mockup and design of the project:
 
 
 
-![Alt text](Screenshot_15-10-153723_.jpeg)
+![Alt text](Screenshot_15-10-2025_153723_.jpeg)
 
 ## Notes and Comments
 
