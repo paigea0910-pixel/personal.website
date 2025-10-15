@@ -4,9 +4,9 @@
 
 The following features are implemented in the project:
 
-- [ ] Example
+- [ ] Features a link to my linked in on the bottom of each Page
 
-- [ ] Example
+- [ ] has  downloadable resume page as well as a projects page
 
 ## Project Design:
 
