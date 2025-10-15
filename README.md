@@ -16,7 +16,7 @@ Here's a mockup and design of the project:
 
 OR
 
-![Alt text](images/example.png)
+![Alt text](Screenshot_15-10-153723_.peg)
 
 ## Notes and Comments
 
